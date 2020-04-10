@@ -10,7 +10,7 @@ idiomatic code.<br><br>
 
 
 Almost one year ago I started to consistently work on
-[Servo](https://servo.org/) issues in my spare time and besides learning Rust
+[Servo](https://www.servo.org/) issues in my spare time and besides learning Rust
 and having tons of fun, it taught me to become a better developer in so many
 ways. Mostly because the Servo team members are truly amazing people, who
 openly share their passion for technicalities with newcomers and make the
@@ -22,7 +22,7 @@ I've learned by contributing.
 ## Providing meaningful context
 
 My initial motivation of contributing to Servo
-was to learn [Rust](). To my surprise that is the one thing I've learned the
+was to learn [Rust](https://www.rust-lang.org/). To my surprise that is the one thing I've learned the
 least during the last year of contributing (I'm quite confident reading Rust code,
 but writing idiomatic Rust is a whole different story). What I actually
 learned to be the most valuable lesson is the importance of *communicating
