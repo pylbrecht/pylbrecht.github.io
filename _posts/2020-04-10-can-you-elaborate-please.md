@@ -48,7 +48,7 @@ the response solving your problem first try. Playing comment ping-pong with an
 
 ## What is meaningful context?
 
-The answer to this question is pretty straightforward: it depends.<br>
+The answer to this question is obvious: it depends.<br>
 It depends on the problem you're trying to solve and on the reader's
 skills and technical background.
 
