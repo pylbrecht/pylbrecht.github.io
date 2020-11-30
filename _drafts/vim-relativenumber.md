@@ -1,6 +1,7 @@
 ---
 title: "j k on steroids"
 layout: post
+tags: vim relativenumber
 ---
 
 **TLDR:**
