@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Naming blogs is hard
-email: pylbrecht@mailbox.org
+title: Never stop merging
+email: contact@neverstopmerging.com
 description: 
-domain: pylbrecht.github.io
+domain: neverstopmerging.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pylbrecht.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://neverstopmerging.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  pylbrecht
 
