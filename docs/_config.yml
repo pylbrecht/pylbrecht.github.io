@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Never stop merging
+name: Philipp Albrecht
 email: contact@neverstopmerging.com
 description: 
 domain: neverstopmerging.com
@@ -24,9 +25,33 @@ github_username:  pylbrecht
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+author:
+  name        : "Philipp Albrecht"
+  bio         : "Backend nerd"
+  avatar      : "assets/avatar.png"
+  location    : "Berlin"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pylbrecht@mailbox.org"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pylbrecht"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

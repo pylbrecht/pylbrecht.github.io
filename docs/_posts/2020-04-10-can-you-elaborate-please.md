@@ -1,6 +1,5 @@
 ---
 title: "Can you elaborate, please?"
-layout: post
 ---
 
 **TLDR:**

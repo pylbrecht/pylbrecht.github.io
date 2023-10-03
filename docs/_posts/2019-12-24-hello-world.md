@@ -1,6 +1,5 @@
 ---
 title: "But mom, all the cool kids have a blog!"
-layout: post
 ---
 
 It's the year 2019 and I finally got around to this new thing called "blogging".
