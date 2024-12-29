@@ -28,7 +28,7 @@ learned to be the most valuable lesson is the importance of *communicating
 context to fellow developers*.
 
 As a newcomer I usually have many questions when tackling a new issue and I
-don't want the reponse to my supposedly well crafted question be along the
+don't want the response to my supposedly well crafted question be along the
 lines of:
 
 > Can you elaborate, please?
@@ -90,7 +90,7 @@ related to the subject online. Here a few links to get you started:
 ## Conclusion
 I think it's a great challenge to provide context that is just on point and easy
 to read. It translates so well into other areas, because it's
-more of a communcation skill rather than a technical one, and therefore
+more of a communication skill rather than a technical one, and therefore
 absolutely worth cultivating. It saves both the asker and the answerer a lot of time
 and leaves people happy instead of frustrated and unmotivated.
 
