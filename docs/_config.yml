@@ -13,46 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Never stop merging
-name: Philipp Albrecht
-email: contact@neverstopmerging.com
-description: 
+title: pylbrecht's blog
+name: pylbrecht
 domain: neverstopmerging.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://neverstopmerging.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  pylbrecht
+github_username: pylbrecht
+show_excerpts: true
+# hack to remove the default "about" page without overriding layout
+header_pages:
+  - ""
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
-
-author:
-  name        : "Philipp Albrecht"
-  bio         : "Learning is my drug of choice"
-  avatar      : "assets/avatar.png"
-  location    : "Berlin"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pylbrecht@mailbox.org"
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pylbrecht"
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
