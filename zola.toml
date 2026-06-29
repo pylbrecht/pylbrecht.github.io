@@ -1,0 +1,22 @@
+# The URL the site will be built for
+base_url = "https://neverstopmerging.com/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "zola-no-style-please"
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+list_pages = false
+header_nav = [
+  { name = "home", url = "/"},
+  { name = "blog", url = "/blog"},
+]
