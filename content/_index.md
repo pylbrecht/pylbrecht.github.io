@@ -2,6 +2,8 @@
 +++
 
 # Hi 👋
+I'm Philipp Albrecht, a software engineer in Berlin.
+
 I solve problems for fun (type 1 to 3).
 
 You can find me on:
